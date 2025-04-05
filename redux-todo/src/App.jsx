@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navbaar />
-      <h1>Needs to remove</h1>
+      <h1>Needs to remove !</h1>
       <Home />
     </>
   );
